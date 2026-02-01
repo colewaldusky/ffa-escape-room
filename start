@@ -1,0 +1,15 @@
+ffa-escape-room/
+├─ app/
+│  └─ page.tsx        ← your escape room code (preferred)
+│     OR
+├─ pages/
+│  └─ index.tsx       ← your escape room code (also OK)
+│
+├─ public/
+│  ├─ BornForThisLogo.png
+│  ├─ Tractor.png
+│  └─ gif.gif
+│
+├─ package.json
+├─ tsconfig.json
+└─ next.config.js     (optional)
